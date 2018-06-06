@@ -14,3 +14,6 @@ Creating a new branch is quik
 creating a new branch is quitk but always feat
 
 manger branch
+
+
+git is a free soft
